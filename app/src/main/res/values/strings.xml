@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parse_JSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_valor">valor</string>
+</resources>
